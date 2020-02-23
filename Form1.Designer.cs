@@ -53,98 +53,153 @@
             // 
             // btn_1
             // 
+            this.btn_1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_1.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_1.FlatAppearance.BorderSize = 2;
+            this.btn_1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_1, "btn_1");
             this.btn_1.Name = "btn_1";
-            this.btn_1.UseVisualStyleBackColor = true;
+            this.btn_1.UseVisualStyleBackColor = false;
             this.btn_1.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_2
             // 
+            this.btn_2.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_2.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_2.FlatAppearance.BorderSize = 2;
+            this.btn_2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_2, "btn_2");
             this.btn_2.Name = "btn_2";
-            this.btn_2.UseVisualStyleBackColor = true;
+            this.btn_2.UseVisualStyleBackColor = false;
             this.btn_2.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_3
             // 
+            this.btn_3.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_3.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_3.FlatAppearance.BorderSize = 2;
+            this.btn_3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_3, "btn_3");
             this.btn_3.Name = "btn_3";
-            this.btn_3.UseVisualStyleBackColor = true;
+            this.btn_3.UseVisualStyleBackColor = false;
             this.btn_3.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_4
             // 
+            this.btn_4.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_4.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_4.FlatAppearance.BorderSize = 2;
+            this.btn_4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_4, "btn_4");
             this.btn_4.Name = "btn_4";
-            this.btn_4.UseVisualStyleBackColor = true;
+            this.btn_4.UseVisualStyleBackColor = false;
             this.btn_4.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_5
             // 
+            this.btn_5.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_5.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_5.FlatAppearance.BorderSize = 2;
+            this.btn_5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_5, "btn_5");
             this.btn_5.Name = "btn_5";
-            this.btn_5.UseVisualStyleBackColor = true;
+            this.btn_5.UseVisualStyleBackColor = false;
             this.btn_5.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_6
             // 
+            this.btn_6.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_6.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_6.FlatAppearance.BorderSize = 2;
+            this.btn_6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_6, "btn_6");
             this.btn_6.Name = "btn_6";
-            this.btn_6.UseVisualStyleBackColor = true;
+            this.btn_6.UseVisualStyleBackColor = false;
             this.btn_6.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_7
             // 
+            this.btn_7.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_7.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_7.FlatAppearance.BorderSize = 2;
+            this.btn_7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_7, "btn_7");
             this.btn_7.Name = "btn_7";
-            this.btn_7.UseVisualStyleBackColor = true;
+            this.btn_7.UseVisualStyleBackColor = false;
             this.btn_7.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_8
             // 
+            this.btn_8.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_8.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_8.FlatAppearance.BorderSize = 2;
+            this.btn_8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_8, "btn_8");
             this.btn_8.Name = "btn_8";
-            this.btn_8.UseVisualStyleBackColor = true;
+            this.btn_8.UseVisualStyleBackColor = false;
             this.btn_8.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_9
             // 
+            this.btn_9.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_9.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_9.FlatAppearance.BorderSize = 2;
+            this.btn_9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_9, "btn_9");
             this.btn_9.Name = "btn_9";
-            this.btn_9.UseVisualStyleBackColor = true;
+            this.btn_9.UseVisualStyleBackColor = false;
             this.btn_9.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_0
             // 
+            this.btn_0.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_0.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_0.FlatAppearance.BorderSize = 2;
+            this.btn_0.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_0, "btn_0");
             this.btn_0.Name = "btn_0";
-            this.btn_0.UseVisualStyleBackColor = true;
+            this.btn_0.UseVisualStyleBackColor = false;
             this.btn_0.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_virgula
             // 
+            this.btn_virgula.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_virgula.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowFrame;
+            this.btn_virgula.FlatAppearance.BorderSize = 2;
+            this.btn_virgula.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_virgula, "btn_virgula");
             this.btn_virgula.Name = "btn_virgula";
-            this.btn_virgula.UseVisualStyleBackColor = true;
+            this.btn_virgula.UseVisualStyleBackColor = false;
             this.btn_virgula.Click += new System.EventHandler(this.btn_numerador_Click);
             // 
             // btn_somar
             // 
+            this.btn_somar.BackColor = System.Drawing.Color.Blue;
+            this.btn_somar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_somar.FlatAppearance.BorderSize = 2;
+            this.btn_somar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_somar, "btn_somar");
             this.btn_somar.Name = "btn_somar";
-            this.btn_somar.UseVisualStyleBackColor = true;
+            this.btn_somar.UseVisualStyleBackColor = false;
             this.btn_somar.Click += new System.EventHandler(this.btn_somar_Click);
             // 
             // btn_igual
             // 
+            this.btn_igual.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btn_igual.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_igual.FlatAppearance.BorderSize = 2;
+            this.btn_igual.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
             resources.ApplyResources(this.btn_igual, "btn_igual");
             this.btn_igual.Name = "btn_igual";
-            this.btn_igual.UseVisualStyleBackColor = true;
+            this.btn_igual.UseVisualStyleBackColor = false;
             this.btn_igual.Click += new System.EventHandler(this.btn_igual_Click);
             // 
             // btn_limpar
             // 
-            this.btn_limpar.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btn_limpar.BackColor = System.Drawing.Color.Orange;
+            this.btn_limpar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_limpar.FlatAppearance.BorderSize = 2;
+            this.btn_limpar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
             resources.ApplyResources(this.btn_limpar, "btn_limpar");
             this.btn_limpar.Name = "btn_limpar";
             this.btn_limpar.UseVisualStyleBackColor = false;
@@ -157,23 +212,35 @@
             // 
             // btn_multiplicar
             // 
+            this.btn_multiplicar.BackColor = System.Drawing.Color.Crimson;
+            this.btn_multiplicar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_multiplicar.FlatAppearance.BorderSize = 2;
+            this.btn_multiplicar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             resources.ApplyResources(this.btn_multiplicar, "btn_multiplicar");
             this.btn_multiplicar.Name = "btn_multiplicar";
-            this.btn_multiplicar.UseVisualStyleBackColor = true;
+            this.btn_multiplicar.UseVisualStyleBackColor = false;
             this.btn_multiplicar.Click += new System.EventHandler(this.btn_multiplicar_Click);
             // 
             // btn_subtrair
             // 
+            this.btn_subtrair.BackColor = System.Drawing.Color.Yellow;
+            this.btn_subtrair.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_subtrair.FlatAppearance.BorderSize = 2;
+            this.btn_subtrair.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             resources.ApplyResources(this.btn_subtrair, "btn_subtrair");
             this.btn_subtrair.Name = "btn_subtrair";
-            this.btn_subtrair.UseVisualStyleBackColor = true;
+            this.btn_subtrair.UseVisualStyleBackColor = false;
             this.btn_subtrair.Click += new System.EventHandler(this.btn_subtrair_Click);
             // 
             // btn_dividir
             // 
+            this.btn_dividir.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btn_dividir.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_dividir.FlatAppearance.BorderSize = 2;
+            this.btn_dividir.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             resources.ApplyResources(this.btn_dividir, "btn_dividir");
             this.btn_dividir.Name = "btn_dividir";
-            this.btn_dividir.UseVisualStyleBackColor = true;
+            this.btn_dividir.UseVisualStyleBackColor = false;
             this.btn_dividir.Click += new System.EventHandler(this.btn_dividir_Click);
             // 
             // label2

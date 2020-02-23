@@ -117,6 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btn_1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
@@ -146,6 +150,9 @@
   <data name="&gt;&gt;btn_1.ZOrder" xml:space="preserve">
     <value>19</value>
   </data>
+  <data name="btn_2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
   </data>
@@ -172,6 +179,9 @@
   </data>
   <data name="&gt;&gt;btn_2.ZOrder" xml:space="preserve">
     <value>18</value>
+  </data>
+  <data name="btn_3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
@@ -200,6 +210,9 @@
   <data name="&gt;&gt;btn_3.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
+  <data name="btn_4.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
   </data>
@@ -226,6 +239,9 @@
   </data>
   <data name="&gt;&gt;btn_4.ZOrder" xml:space="preserve">
     <value>16</value>
+  </data>
+  <data name="btn_5.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
@@ -254,6 +270,9 @@
   <data name="&gt;&gt;btn_5.ZOrder" xml:space="preserve">
     <value>15</value>
   </data>
+  <data name="btn_6.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_6.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt, style=Bold</value>
   </data>
@@ -280,6 +299,9 @@
   </data>
   <data name="&gt;&gt;btn_6.ZOrder" xml:space="preserve">
     <value>14</value>
+  </data>
+  <data name="btn_7.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_7.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
@@ -308,6 +330,9 @@
   <data name="&gt;&gt;btn_7.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
+  <data name="btn_8.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_8.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
   </data>
@@ -334,6 +359,9 @@
   </data>
   <data name="&gt;&gt;btn_8.ZOrder" xml:space="preserve">
     <value>12</value>
+  </data>
+  <data name="btn_9.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_9.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
@@ -362,6 +390,9 @@
   <data name="&gt;&gt;btn_9.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
+  <data name="btn_0.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_0.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
   </data>
@@ -388,6 +419,9 @@
   </data>
   <data name="&gt;&gt;btn_0.ZOrder" xml:space="preserve">
     <value>10</value>
+  </data>
+  <data name="btn_virgula.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_virgula.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 22.2pt</value>
@@ -416,6 +450,9 @@
   <data name="&gt;&gt;btn_virgula.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
+  <data name="btn_somar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_somar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 30pt</value>
   </data>
@@ -443,6 +480,9 @@
   <data name="&gt;&gt;btn_somar.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
+  <data name="btn_igual.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_igual.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 13.8pt</value>
   </data>
@@ -456,7 +496,7 @@
     <value>12</value>
   </data>
   <data name="btn_igual.Text" xml:space="preserve">
-    <value>João 3:16 = S2</value>
+    <value>Jesus = Deus = Espírito</value>
   </data>
   <data name="&gt;&gt;btn_igual.Name" xml:space="preserve">
     <value>btn_igual</value>
@@ -469,6 +509,9 @@
   </data>
   <data name="&gt;&gt;btn_igual.ZOrder" xml:space="preserve">
     <value>7</value>
+  </data>
+  <data name="btn_limpar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_limpar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 13.8pt</value>
@@ -509,7 +552,6 @@
   <data name="txt_valor.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="txt_valor.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Right</value>
   </data>
@@ -525,11 +567,14 @@
   <data name="&gt;&gt;txt_valor.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="btn_multiplicar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_multiplicar.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Impact, 13.8pt</value>
+    <value>Impact, 12.8pt</value>
   </data>
   <data name="btn_multiplicar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>359, 300</value>
+    <value>360, 304</value>
   </data>
   <data name="btn_multiplicar.Size" type="System.Drawing.Size, System.Drawing">
     <value>213, 70</value>
@@ -551,6 +596,9 @@
   </data>
   <data name="&gt;&gt;btn_multiplicar.ZOrder" xml:space="preserve">
     <value>4</value>
+  </data>
+  <data name="btn_subtrair.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btn_subtrair.Font" type="System.Drawing.Font, System.Drawing">
     <value>Impact, 10.2pt</value>
@@ -579,8 +627,11 @@
   <data name="&gt;&gt;btn_subtrair.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="btn_dividir.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btn_dividir.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Impact, 13.8pt</value>
+    <value>Impact, 12.8pt</value>
   </data>
   <data name="btn_dividir.Location" type="System.Drawing.Point, System.Drawing">
     <value>579, 304</value>
@@ -891,9 +942,6 @@
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>802, 472</value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
